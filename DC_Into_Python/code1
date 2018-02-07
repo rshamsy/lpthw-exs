@@ -1,0 +1,5 @@
+height = 1.79
+weight = 68.7
+
+print(height)
+
